@@ -2,7 +2,7 @@
 <img src="https://image.ibb.co/bEF0B7/doggy.gif" alt="doggy" border="0">
 
 ## ENV
-Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions
+Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions (inside develop branch to practice PR's)
 
 ### Links
 - (Git cheat) https://education.github.com/git-cheat-sheet-education.pdf
