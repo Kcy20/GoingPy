@@ -20,7 +20,6 @@ Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions (inside de
 - [] API's w/ mongodb
 - [] python stack w/ django
 
-### patterns and challenges
-- https://www.educative.io/courses/grokking-coding-interview-patterns-python
-- https://pythonprinciples.com/challenges/
-- https://www.hackerrank.com/domains/python
+## InfoSec reads / create a blog page
+- https://www.sans.org/reading-room/whitepapers/testing/
+- https://www.cisecurity.org/controls/inventory-and-control-of-hardware-assets/
