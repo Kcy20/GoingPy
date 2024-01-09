@@ -2,7 +2,7 @@
 <img src="https://image.ibb.co/bEF0B7/doggy.gif" alt="doggy" border="0">
 
 ## ENV
-Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions
+Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions (inside develop branch to practice PR's)
 
 ### Links
 - (Git cheat) https://education.github.com/git-cheat-sheet-education.pdf
@@ -20,6 +20,7 @@ Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions
 - [] API's w/ mongodb
 - [] python stack w/ django
 
-## InfoSec reads / create a blog page
-- https://www.sans.org/reading-room/whitepapers/testing/
-- https://www.cisecurity.org/controls/inventory-and-control-of-hardware-assets/
+### patterns and challenges
+- https://www.educative.io/courses/grokking-coding-interview-patterns-python
+- https://pythonprinciples.com/challenges/
+- https://www.hackerrank.com/domains/python
