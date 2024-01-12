@@ -25,4 +25,5 @@ Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions (inside de
 - https://www.educative.io/courses/grokking-coding-interview-patterns-python
 - https://pythonprinciples.com/challenges/
 - https://www.hackerrank.com/domains/python
+-  
 - 
