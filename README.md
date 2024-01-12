@@ -21,7 +21,7 @@ Windows 10, WSL Ubuntu, Visual Studio Code, Terminal + Git extensions (inside de
 - [] python stack w/ django
 
 ### patterns and challenges
+- https://campus.datacamp.com/courses/intro-to-python-for-data-science
 - https://www.educative.io/courses/grokking-coding-interview-patterns-python
 - https://pythonprinciples.com/challenges/
 - https://www.hackerrank.com/domains/python
-- 
